@@ -169,7 +169,7 @@ My goal is to work in high-impact engineering environments where I can design re
 
 ## 📫 Let's Connect
 
-- LinkedIn: [https://www.linkedin.com/in/emdinga-mbhamali/]
+- LinkedIn: https://www.linkedin.com/in/emdinga-mbhamali/
 - GitHub: https://github.com/Emdinga
 - Email: emdinga@gmail.com
 
