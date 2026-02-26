@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Emdinga Mbhamali
 
 🚀 Cloud & DevOps Engineer | AWS Specialist | Terraform Certified | Infrastructure-Focused  
-📍 Durban, South Africa  
+📍 South Africa  
 
 ---
 
